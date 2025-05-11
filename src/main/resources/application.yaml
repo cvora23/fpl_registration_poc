@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: fpl_registration_poc
+server:
+  port: 18080
