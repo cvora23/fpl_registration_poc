@@ -10,6 +10,10 @@
 .springBeans
 .sts4-cache
 
+# Intellij
+.idea/
+*.iml
+*.iws
 
 # Created by https://www.gitignore.io/api/git,java,maven,eclipse,windows
 
